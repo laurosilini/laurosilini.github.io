@@ -1,8 +1,9 @@
 ## About me
 
-I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
-
 On September 1st I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
+
+
+I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
 
 I completed my PhD at ETH under the supervision of [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) and [Urs Lang](https://people.math.ethz.ch/~lang/).
 
