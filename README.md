@@ -9,10 +9,11 @@ I did my Master at ETH in 2020, and before that I did my Bachelor at [EPFL](http
 ### Contact information
 ### Research
 
-#### Publications
+#### My PhD Dissertation
 
-My PhD Dissertation
 - [A geometric approach to isoperimetric problems and the semigeostrophic system](https://www.research-collection.ethz.ch/handle/20.500.11850/680865)
+
+#### Publications
 
 - [Quantitative $C^1$-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), preprint
 
