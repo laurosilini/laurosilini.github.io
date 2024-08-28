@@ -8,9 +8,12 @@ I did my Master at ETH in 2020, and before that I did my Bachelor at [EPFL](http
 
 ### Contact information
 ### Research
+
+#### Publications
+
 My PhD Dissertation
 - [A geometric approach to isoperimetric problems and the semigeostrophic system](https://www.research-collection.ethz.ch/handle/20.500.11850/680865)
-#### Publications
+
 - [Quantitative $C^1$-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), preprint
 
 - [Approaching the isoperimetric problem in $H^m_\mathbb{C}$ via the hyperbolic log-convex density conjecture](https://link.springer.com/article/10.1007/s00526-023-02617-0), in *Calc. Var. Partial Differential Equations* 2023
@@ -42,6 +45,7 @@ My PhD Dissertation
 - Jun 2022 [Isoperimetric Problems](https://events.dm.unipi.it/event/14/), Dipartimento di Matematica Università di Pisa
 - Jun 2022 [Geometric analysis and calibrated geometries](https://math.ethz.ch/fim/activities/conferences/past-conferences/2022/geometric-analysis-and-calibrated-geometries.html), ETH Zürich
 - May 2022 [SMS Doctoral Day](https://commonweb.unifr.ch/_Science/Math/Pub/dr.day/main.html), University Fribourg
+  
 ### Teaching
 
  ETH Zürich
