@@ -9,7 +9,6 @@ I completed my PhD at ETH under the supervision of [Alessio Figalli](https://peo
 
 I did my Master at ETH in 2020, and before that I did my Bachelor at [EPFL](https://www.epfl.ch/fr/).
 
-### Contact information
 ### Research
 
 #### My PhD Dissertation
