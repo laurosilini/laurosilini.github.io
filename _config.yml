@@ -15,5 +15,5 @@ title: Lauro Silini
 #  email: "someone@example.com"
 
 
-theme: jekyll-theme-minimal
-#remote_theme: alshedivat/al-folio
+#theme: jekyll-theme-minimal
+remote_theme: poole/hyde
