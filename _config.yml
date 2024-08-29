@@ -1,19 +1,1 @@
-title: Lauro Silini
-
-#navbar-links:
-  #Research: "research"
-  #Teaching: "teaching"
-  
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
-
-#avatar: avatar_old.png
-#round-avatar: true
-#social-network-links:
-#  email: "someone@example.com"
-
-
-#theme: jekyll-theme-minimal
 remote_theme: nielsenramon/chalk
