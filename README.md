@@ -1,4 +1,4 @@
-# About me
+# About me: Lauro Silini
 
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
 
