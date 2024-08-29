@@ -1,10 +1,10 @@
-### Research
+## Research
 
-#### My PhD Dissertation
+### My PhD Dissertation
 
 - [A geometric approach to isoperimetric problems and the semigeostrophic system](https://www.research-collection.ethz.ch/handle/20.500.11850/680865)
 
-#### Publications
+### Publications
 
 - [Quantitative $C^1$-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), preprint
 
@@ -12,7 +12,7 @@
 
 - [Local existence of smooth solutions for the semigeostrophic equations on curved domains](https://epubs.siam.org/doi/full/10.1137/22M1532846), in *SIAM J. Math. Anal.* 2023
 
-#### Given Talks
+### Given Talks
 
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg, Title: The isoperimetric conjecture in the complex hyperbolic space.
 - Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna, Mini talk, Title: Large scale control and curvature obstructions in meteorology.
@@ -25,7 +25,7 @@
 - 2022, Zurich graduate colloquium, ETH Zürich, Title: What is…a Monge-Ampère equation?
 - 2021, Geometry Graduate Colloquium, ETH Zürch, Title: A sub-Riemannian promenade in the Heisenberg group
   
-#### Conferences attended
+### Conferences attended
 
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
 - Jun 2024 [CHallenges in ANalisys and GEometry](https://math.ethz.ch/fim/activities/conferences/CHANGE-CHallenges-in-ANalysis-and-GEometry.html): ETH Zurich.
