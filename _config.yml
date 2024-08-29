@@ -7,6 +7,6 @@ header_pages:
   - research.md
   - teaching.md
 
-style: dark
+style: light
 markdown: kramdown
 
