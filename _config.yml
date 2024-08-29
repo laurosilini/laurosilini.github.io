@@ -8,10 +8,9 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
+#avatar: avatar_old.png
+#round-avatar: true
 
-#description: Photo credits Amaru Arancibia
-avatar: avatar_old.png
-round-avatar: true
 #theme: jekyll-theme-minimal
 remote_theme: daattali/beautiful-jekyll
 
