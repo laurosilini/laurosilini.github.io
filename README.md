@@ -1,7 +1,8 @@
-# About me: Lauro Silini
+# About
+
+My name is Lauro Silini.
 
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
-
 
 I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
 
