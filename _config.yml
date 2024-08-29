@@ -12,7 +12,9 @@ navbar-links:
 
 #avatar: avatar_old.png
 #round-avatar: true
-
+social-network-links:
+  email: "someone@example.com"
+title-on-all-pages: false 
 #theme: jekyll-theme-minimal
 remote_theme: daattali/beautiful-jekyll
 
