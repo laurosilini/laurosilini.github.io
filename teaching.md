@@ -1,6 +1,6 @@
 ## Teaching
 
-###ETH Zürich
+### ETH Zürich
 
 - Spring 2024: [Functional Analysis II](https://metaphor.ethz.ch/x/2024/fs/401-3462-00L/), Teaching Assistant, Lecturer: Prof. Dr. [Marc Burger](https://math.ethz.ch/research/geometry-groups-dynamics/marc-burger.html)
 - Fall 2023: [Complex Analysis](https://metaphor.ethz.ch/x/2023/hs/401-2303-00L/), Course Organizer, Lecturer: Prof. Dr. [Özlem Imamoglu](https://people.math.ethz.ch/~oezlemi/)
@@ -13,7 +13,7 @@ and global existence of solutions
 - Spring 2021 [Seminar of Algebraic Number Theory](https://people.math.ethz.ch/~steinrap/21_alg_zth), Course organizer, Lecturer: Dr. [Raphael Steiner](https://people.math.ethz.ch/~steinrap/)
 - Fall 2020 Differential Geometry 1, Teaching Assistant, Lecturer: Prof. Dr. Will Merry
 
-###EPF Lausanne
+### EPF Lausanne
 
 - Fall 2017 Analysis 1, Teaching Assistant
   
