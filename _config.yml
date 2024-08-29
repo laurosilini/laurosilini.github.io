@@ -1,4 +1,14 @@
 title: Lauro Silini
+author: Lauro Silini
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+
 #description: Photo credits Amaru Arancibia
 logo: avatar_old.png
 #theme: jekyll-theme-minimal
