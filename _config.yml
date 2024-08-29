@@ -1,1 +1,10 @@
 remote_theme: b2a3e8/jekyll-theme-console
+
+title: Lauro Silini
+
+header_pages:
+  - research.md
+  - teaching.md
+
+style: light
+
