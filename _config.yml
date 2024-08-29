@@ -1,4 +1,5 @@
 title: Lauro Silini
 #description: Photo credits Amaru Arancibia
 logo: avatar_old.png
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: alshedivat/al-folio
