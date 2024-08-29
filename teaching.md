@@ -1,3 +1,9 @@
+---
+title: /teaching
+layout: page
+permalink: /
+---
+
 ## Teaching
 
 ### ETH Zürich
