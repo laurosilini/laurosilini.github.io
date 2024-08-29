@@ -1,7 +1,7 @@
 ---
 title: /research
 layout: page
-permalink: /
+permalink: /research
 ---
 
 ## Research
