@@ -15,6 +15,9 @@ navbar-links:
 #social-network-links:
 #  email: "someone@example.com"
 title-on-all-pages: false 
+
+cover-img: avatar_old.png
+
 #theme: jekyll-theme-minimal
 remote_theme: daattali/beautiful-jekyll
 
