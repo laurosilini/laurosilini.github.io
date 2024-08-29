@@ -14,7 +14,7 @@ navbar-links:
 #round-avatar: true
 #social-network-links:
 #  email: "someone@example.com"
-title-on-all-pages: true 
+title-on-all-pages: false 
 #theme: jekyll-theme-minimal
 remote_theme: daattali/beautiful-jekyll
 
