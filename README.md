@@ -1,3 +1,7 @@
+title: /
+layout: home
+permalink: /
+
 # About
 
 My name is **Lauro Silini**.
