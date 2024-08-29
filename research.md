@@ -1,3 +1,9 @@
+---
+title: /research
+layout: page
+permalink: /
+---
+
 ## Research
 
 ### My PhD Dissertation
