@@ -1,5 +1,4 @@
-![Alt text](avatar_old.png)
-
+#About me
 
 On September 1st I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
 
