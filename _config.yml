@@ -2,7 +2,9 @@ title: Lauro Silini
 author: Lauro Silini
 
 navbar-links:
-  About Me: "aboutme"
+  Research: "research"
+  Teaching: "teaching"
+  
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
