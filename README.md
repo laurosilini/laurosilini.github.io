@@ -2,7 +2,7 @@
 
 My name is Lauro Silini.
 
-<img style="vertical-align:right" src="avatar_old.png" alt="drawing" width="200"/>
+<img style="align:center" src="avatar_old.png" alt="drawing" width="200"/>
 
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
 
