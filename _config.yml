@@ -8,4 +8,5 @@ header_pages:
   - teaching.md
 
 style: light
+markdown: kramdown
 
