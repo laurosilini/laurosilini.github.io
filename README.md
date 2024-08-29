@@ -6,3 +6,5 @@ On September 1st I will start a fellowship at [ISTA](https://mathematics.pages.i
 I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
 
 I completed my PhD at ETH under the supervision of [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) and [Urs Lang](https://people.math.ethz.ch/~lang/).
+I did my Master at ETH in 2020, and before that I did my Bachelor at [EPFL](https://www.epfl.ch/fr/).
+
