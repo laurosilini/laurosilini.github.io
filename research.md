@@ -14,16 +14,16 @@
 
 ### Given Talks
 
--  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg, Title: The isoperimetric conjecture in the complex hyperbolic space.
-- Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna, Mini talk, Title: Large scale control and curvature obstructions in meteorology.
-- Mar 2024 [Geometry Seminar](http://www.homepages.ucl.ac.uk/~ucahlfo/GeometrySeminar.html): University College London,  Title: The isoperimetric conjecture in the complex hyperbolic space: Hopf-symmetries and densities.
-- Feb 2024 [Oberwolfach workshop:  Applications of Optimal Transportation](https://www.mfo.de/occasion/2406/www_view), MFO, Title: Solutions of the semigeostrophic equation on a rotating sphere.
--  Dec 2023 [MathPhys Analysis seminar](https://mathphys.pages.ist.ac.at/), ISTA Vienna, Title: Solutions of the semigeostrophic equation on a rotating sphere.
--  Dec 2023 Research talk at [Hausdorff Center](https://www.hcm.uni-bonn.de/), University of Bonn, Title: The isoperimetric conjecture in the complex hyperbolic space: Hopf-symmetries and densities
--  Jul 2023 ([Poster](poster.pdf) contribution) [Geometry and analysis of groups and manifolds](https://sites.google.com/view/geometryandanalysis/), De Giorgi Center of SNS Pisa
-- 2022, Seminario di Equazioni Differenziali e Applicazioni, University of Padova, Title: The isoperimetric conjecture in the complex hyperbolic space: Hopf-symmetries and densities
-- 2022, Zurich graduate colloquium, ETH Zürich, Title: What is…a Monge-Ampère equation?
-- 2021, Geometry Graduate Colloquium, ETH Zürch, Title: A sub-Riemannian promenade in the Heisenberg group
+-  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
+- Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna, Mini talk.
+- Mar 2024 [Geometry Seminar](http://www.homepages.ucl.ac.uk/~ucahlfo/GeometrySeminar.html): University College London.
+- Feb 2024 [Oberwolfach workshop:  Applications of Optimal Transportation](https://www.mfo.de/occasion/2406/www_view), MFO.
+-  Dec 2023 [MathPhys Analysis seminar](https://mathphys.pages.ist.ac.at/), ISTA Vienna.
+-  Dec 2023 Research talk at [Hausdorff Center](https://www.hcm.uni-bonn.de/), University of Bonn.
+-  Jul 2023 ([Poster](poster.pdf) contribution) [Geometry and analysis of groups and manifolds](https://sites.google.com/view/geometryandanalysis/), De Giorgi Center of SNS Pisa.
+- 2022, Seminario di Equazioni Differenziali e Applicazioni, University of Padova.
+- 2022, Zurich graduate colloquium, ETH Zürich.
+- 2021, Geometry Graduate Colloquium, ETH Zürch.
   
 ### Conferences attended
 
