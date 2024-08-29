@@ -1,6 +1,6 @@
 # About
 
-My name is *Lauro Silini*.
+My name is **Lauro Silini**.
 
 <img src="avatar_old.png" alt="drawing" width="200"/>
 
