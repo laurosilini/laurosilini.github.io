@@ -19,7 +19,7 @@ title-on-all-pages: false
 cover-img: avatar_old.png
 
 #theme: jekyll-theme-minimal
-remote_theme: daattali/beautiful-jekyll
+remote_theme: alshedivat/al-folio
 
 page-col: "#FFFFFF"
 text-col: "#404040"
