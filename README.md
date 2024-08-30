@@ -7,7 +7,7 @@ permalink: /
 # About
 
 <p align="center">
-<img src="avatar_old.png" alt="avatar" width="200" border-radius: 50%;/>
+<img src="avatar_old.png" alt="avatar" width="200"/>
 </p>
 
 My name is **Lauro Silini**.
