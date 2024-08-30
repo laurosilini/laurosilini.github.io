@@ -1,5 +1,5 @@
 ---
-title: /teaching
+title: /☂ teaching
 layout: page
 permalink: /teaching
 ---
