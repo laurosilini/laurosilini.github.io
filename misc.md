@@ -1,7 +1,7 @@
 ---
-title: /∎ misc
+title: /☂ misc
 layout: page
 permalink: /misc
 ---
 
-This page is still under construction :).
+This page is still under construction :)
