@@ -6,11 +6,12 @@ permalink: /
 
 # About
 
-My name is **Lauro Silini**.
 <p align="right">
 <img src="avatar_old.png" alt="avatar" width="200"/>
 </p>
-  
+
+My name is **Lauro Silini**.
+
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
 
 I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
