@@ -1,5 +1,5 @@
 ---
-title: / ✆contact
+title: / @contact
 layout: page
 permalink: /contact
 ---
