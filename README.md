@@ -10,7 +10,7 @@ permalink: /
 <img src="avatar_old.png" alt="avatar" width="200"/>
 </p>
 
-Hi! ☺ My name is **Lauro Silini**.
+Hi! My name is **Lauro Silini**.
 
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
 
