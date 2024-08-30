@@ -10,6 +10,7 @@ header_pages:
   - research.md
   - teaching.md
   - contact.md
+  - misc.md
 
 style: light
 markdown: kramdown
