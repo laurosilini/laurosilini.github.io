@@ -1,7 +1,7 @@
 ---
-title: /↪ contact
+title: /↪ mail
 layout: page
-permalink: /contact
+permalink: /mail
 ---
 
 ## Contact
