@@ -1,5 +1,5 @@
 ---
-title: /research
+title: /&#8477; esearch
 layout: page
 permalink: /research
 ---
