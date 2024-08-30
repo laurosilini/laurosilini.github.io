@@ -1,7 +1,7 @@
 ---
 title: /∃ me
 layout: home
-permalink: /me
+permalink: /
 ---
 
 # About
