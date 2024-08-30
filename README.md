@@ -6,8 +6,8 @@ permalink: /
 
 # About
 
-<p align="right">
-<img src="avatar_old.png" alt="avatar" width="200"/>
+<p align="center">
+<img src="avatar_old.png" alt="avatar" width="200" border-radius: 50%;/>
 </p>
 
 My name is **Lauro Silini**.
