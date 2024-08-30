@@ -1,5 +1,5 @@
 ---
-title: /∃ about
+title: /∃ bio
 layout: home
 permalink: /
 ---
