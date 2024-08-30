@@ -7,7 +7,7 @@ permalink: /
 # About
 
 My name is **Lauro Silini**.
-<p align="center">
+<p align="right">
 <img src="avatar_old.png" alt="avatar" width="200"/>
 </p>
   
