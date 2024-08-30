@@ -8,7 +8,7 @@ permalink: /
 
 My name is **Lauro Silini**.
 <figure>
-<img src="avatar_old.png" alt="avatar" width="200" style="align:right" />
+<img src="avatar_old.png" alt="avatar" width="200" align="right" />
 </figure>
   
 On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/).
