@@ -9,8 +9,8 @@ header_pages:
   - README.md
   - research.md
   - teaching.md
-  - contact.md
   - misc.md
+  - contact.md
 
 style: light
 markdown: kramdown
