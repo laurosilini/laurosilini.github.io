@@ -1,5 +1,6 @@
 remote_theme: b2a3e8/jekyll-theme-console
-
+description: "Personal homepage of Lauro Silini"
+url: "https://laurosilini.github.io"
 title: Lauro Silini
 
 header_pages:
