@@ -1,5 +1,5 @@
 ---
-title: /☂
+title: /+
 layout: page
 permalink: /misc
 ---
