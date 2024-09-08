@@ -12,9 +12,9 @@ permalink: /
 
 Hi! My name is **Lauro Silini**.
 
-On September 1st 2024 I will start a fellowship at [ISTA](https://mathematics.pages.ist.ac.at/) in Austria.
+I am currently a postdoc researcher at the Institute of Science and Technology Austria [ISTA](https://mathematics.pages.ist.ac.at/) in the group of [Prof. Julian Fischer](https://ist.ac.at/en/research/fischer-group/).
 
-I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport and Fluid dynamics.
+I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport, and Fluid dynamics.
 
 I completed my PhD at [ETH](https://ethz.ch/en.html) under the supervision of [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) and [Urs Lang](https://people.math.ethz.ch/~lang/).
 
