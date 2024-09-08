@@ -20,6 +20,7 @@ permalink: /research
 
 ### Given Talks
 
+- Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
 - Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna, Mini talk.
 - Mar 2024 [Geometry Seminar](http://www.homepages.ucl.ac.uk/~ucahlfo/GeometrySeminar.html): University College London.
@@ -33,6 +34,7 @@ permalink: /research
   
 ### Conferences attended
 
+- Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
 - Jun 2024 [CHallenges in ANalisys and GEometry](https://math.ethz.ch/fim/activities/conferences/CHANGE-CHallenges-in-ANalysis-and-GEometry.html): ETH Zurich.
 - Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna.
