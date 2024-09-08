@@ -1,5 +1,5 @@
 ---
-title: /𝔛 research
+title: /𝛀 research
 layout: page
 permalink: /research
 ---
