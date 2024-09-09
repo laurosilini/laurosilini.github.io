@@ -12,7 +12,7 @@ permalink: /
 
 Hi! My name is **Lauro Silini**.
 
-I am currently a postdoc researcher at the Institute of Science and Technology Austria [ISTA](https://mathematics.pages.ist.ac.at/) in the group of [Prof. Julian Fischer](https://ist.ac.at/en/research/fischer-group/).
+I am currently a postdoc researcher at the Institute of Science and Technology Austria [ISTA](https://ist.ac.at/en/home/) in the group of [Prof. Julian Fischer](https://ist.ac.at/en/research/fischer-group/).
 
 I'm interested in Geometric Analysis, Riemannian Geometry, Optimal Transport, and Fluid dynamics.
 
