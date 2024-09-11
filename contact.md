@@ -6,6 +6,6 @@ permalink: /mail
 
 ## Contact
 
-You can contact me at: lauro (dot) silini (usualsymbol) math (dot) ethz (dot) ch
+New email:
 
-New ISTA email coming soon.
+You can contact me at: Lauro (dot) Silini (usualsymbol) ist (dot) ac (dot) at
