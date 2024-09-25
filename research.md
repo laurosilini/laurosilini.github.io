@@ -12,9 +12,9 @@ permalink: /research
 
 ### Publications
 
-- [Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), to appear in **Advances  in Calc. Var.** 2024
+- [Quantitative $$C^1$$-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), to appear in **Advances  in Calc. Var.** 2024
 
-- [Approaching the isoperimetric problem in $H^m_\mathbb{C}$ via the hyperbolic log-convex density conjecture](https://link.springer.com/article/10.1007/s00526-023-02617-0), in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
+- [Approaching the isoperimetric problem in H<sup>m</sup>_\mathbb{C}$ via the hyperbolic log-convex density conjecture](https://link.springer.com/article/10.1007/s00526-023-02617-0), in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
 
 - [Local existence of smooth solutions for the semigeostrophic equations on curved domains](https://epubs.siam.org/doi/full/10.1137/22M1532846), in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
 
