@@ -1,5 +1,5 @@
 ---
-title: /↪ mail
+title: / mail
 layout: page
 permalink: /mail
 ---
