@@ -34,7 +34,7 @@ permalink: /research
   
 ### Conferences attended
 
-- Sept2024 [MeRiOT2024](https://sites.google.com/view/meriot2024/home), Villa Monastero, Lake of Como.
+- Sept 2024 [MeRiOT2024](https://sites.google.com/view/meriot2024/home), Villa Monastero, Lake of Como.
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
 - Jun 2024 [CHallenges in ANalisys and GEometry](https://math.ethz.ch/fim/activities/conferences/CHANGE-CHallenges-in-ANalysis-and-GEometry.html): ETH Zurich.
