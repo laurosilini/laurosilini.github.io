@@ -12,11 +12,11 @@ permalink: /research
 
 ### Publications
 
-- [Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type](https://arxiv.org/abs/2304.02412), to appear in **Advances in Calculus of Variations** 2024
+- [📄](https://arxiv.org/abs/2304.02412) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type, to appear in **Advances in Calculus of Variations** 2024
 
-- [Approaching the isoperimetric problem in H<sup>m</sup><sub>C</sub> via the hyperbolic log-convex density conjecture](https://link.springer.com/article/10.1007/s00526-023-02617-0), in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
+- [📄](https://link.springer.com/article/10.1007/s00526-023-02617-0) Approaching the isoperimetric problem in H<sup>m</sup><sub>C</sub> via the hyperbolic log-convex density conjecture, in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
 
-- [Local existence of smooth solutions for the semigeostrophic equations on curved domains](https://epubs.siam.org/doi/full/10.1137/22M1532846), in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
+- [📄](https://epubs.siam.org/doi/full/10.1137/22M1532846) Local existence of smooth solutions for the semigeostrophic equations on curved domains, in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
 
 ### Given Talks
 
