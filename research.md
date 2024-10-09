@@ -8,7 +8,7 @@ permalink: /research
 
 ### My PhD Dissertation
 
-- [📄](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system]
+- [📄](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system
 
 ### Publications
 
