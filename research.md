@@ -31,7 +31,8 @@ permalink: /research
 - 2022, Seminario di Equazioni Differenziali e Applicazioni, University of Padova.
 - 2022, Zurich graduate colloquium, ETH Zürich.
 - 2021, Geometry Graduate Colloquium, ETH Zürch.
-  
+
+ <!---
 ### Conferences attended
 
 - Sept 2024 [MeRiOT2024](https://sites.google.com/view/meriot2024/home), Villa Monastero, Lake of Como.
@@ -46,3 +47,4 @@ permalink: /research
 - Jun 2022 [Isoperimetric Problems](https://events.dm.unipi.it/event/14/), Dipartimento di Matematica Università di Pisa
 - Jun 2022 [Geometric analysis and calibrated geometries](https://math.ethz.ch/fim/activities/conferences/past-conferences/2022/geometric-analysis-and-calibrated-geometries.html), ETH Zürich
 - May 2022 [SMS Doctoral Day](https://commonweb.unifr.ch/_Science/Math/Pub/dr.day/main.html), University Fribourg
+-->
