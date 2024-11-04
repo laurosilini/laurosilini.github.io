@@ -18,6 +18,10 @@ permalink: /research
 
 ⁕ [📄](https://epubs.siam.org/doi/full/10.1137/22M1532846) Local existence of smooth solutions for the semigeostrophic equations on curved domains, in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
 
+### Report
+
+⁕ [📄](https://ems.press/journals/owr/articles/14298161) Guillaume Carlier, Maria Colombo, Virginie Ehrlacher, Daniel Matthes, Applications of Optimal Transportation. **Oberwolfach Rep.** 21 (2024), no. 1, pp. 309–388.
+
 ### Given Talks
 
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
