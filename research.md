@@ -12,6 +12,7 @@ permalink: /research
 ⁕ [📄](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system
 
 ### Publications
+-----------------------
 
 ⁕ [📄](https://arxiv.org/abs/2304.02412) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type, to appear in **Advances in Calculus of Variations** 2024
 
@@ -20,10 +21,12 @@ permalink: /research
 ⁕ [📄](https://epubs.siam.org/doi/full/10.1137/22M1532846) Local existence of smooth solutions for the semigeostrophic equations on curved domains, in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
 
 ### Report
+-----------------------
 
 ⁕ [📄](https://ems.press/journals/owr/articles/14298161) Guillaume Carlier, Maria Colombo, Virginie Ehrlacher, Daniel Matthes, Applications of Optimal Transportation. **Oberwolfach Rep.** 21 (2024), no. 1, pp. 309–388.
 
 ### Given Talks
+-----------------------
 
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
