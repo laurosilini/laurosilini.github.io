@@ -14,7 +14,7 @@ permalink: /research
 ### Publications
 -----------------------
 
-⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html?casa_token=zv5emrcp3UoAAAAA:liHGoZu8dAgiiOBAapy6-L3oeQ3AMN1WCIuiukVIyHOmgNAKoz-AZn2gwvrMrklks3d2csH4mN-k) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
+⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html?casa_token=kPzN4B1vpHYAAAAA:3AUBk5cHzBCAOQjuByQ035DfwBVAh6vjWR6iUJ0sd3EZ3QV7yYnrv-A039yp8PHzLVDWA86IT_Gb) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
 
 ⁕ [📄](https://link.springer.com/article/10.1007/s00526-023-02617-0) Approaching the isoperimetric problem in H<sup>m</sup><sub>C</sub> via the hyperbolic log-convex density conjecture, in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
 
