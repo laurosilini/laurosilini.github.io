@@ -33,10 +33,10 @@ permalink: /research
 - Nov 2024 [4th Austrian Calculus of Variations Day](https://appliedmath.univie.ac.at/public/ACVD/events/4/), Palais Claudiana, Innsbruck.
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
-- Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA Vienna, Mini talk.
+- Jun 2024 [3rd ISTA Summer School in Analysis and Mathematical Physics](https://summerschool-analysis.ist.ac.at/): ISTA, Klosterneuburg, Austria, Mini talk.
 - Mar 2024 [Geometry Seminar](http://www.homepages.ucl.ac.uk/~ucahlfo/GeometrySeminar.html): University College London.
 - Feb 2024 [Oberwolfach workshop:  Applications of Optimal Transportation](https://www.mfo.de/occasion/2406/www_view), MFO.
--  Dec 2023 [MathPhys Analysis seminar](https://mathphys.pages.ist.ac.at/), ISTA Vienna.
+-  Dec 2023 [MathPhys Analysis seminar](https://mathphys.pages.ist.ac.at/), ISTA, Klosterneuburg, Austria.
 -  Dec 2023 Research talk at [Hausdorff Center](https://www.hcm.uni-bonn.de/), University of Bonn.
 -  Jul 2023 ([Poster](poster.pdf) contribution) [Geometry and analysis of groups and manifolds](https://sites.google.com/view/geometryandanalysis/), De Giorgi Center of SNS Pisa.
 - 2022, Seminario di Equazioni Differenziali e Applicazioni, University of Padova.
