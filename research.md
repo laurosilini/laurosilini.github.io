@@ -9,14 +9,14 @@ permalink: /research
 ### My PhD Dissertation
 -----------------------
 
-⁕ [📄](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system
+⁕ [📒](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system
 
 ### Preprints
 -----------------------
 
 ⁕ [📄](https://arxiv.org/abs/2412.03997) **(new)** with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability, 2024.
 
-### Publications
+### Publications 📚
 -----------------------
 
 ⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html?casa_token=kPzN4B1vpHYAAAAA:3AUBk5cHzBCAOQjuByQ035DfwBVAh6vjWR6iUJ0sd3EZ3QV7yYnrv-A039yp8PHzLVDWA86IT_Gb) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
@@ -28,7 +28,7 @@ permalink: /research
 ### Report
 -----------------------
 
-⁕ [📄](https://ems.press/journals/owr/articles/14298161) Guillaume Carlier, Maria Colombo, Virginie Ehrlacher, Daniel Matthes, Applications of Optimal Transportation. **Oberwolfach Rep.** 21 (2024), no. 1, pp. 309–388.
+⁕ [📒](https://ems.press/journals/owr/articles/14298161) Guillaume Carlier, Maria Colombo, Virginie Ehrlacher, Daniel Matthes, Applications of Optimal Transportation. **Oberwolfach Rep.** 21 (2024), no. 1, pp. 309–388.
 
 ### Given Talks
 -----------------------
