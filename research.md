@@ -14,7 +14,7 @@ permalink: /research
 ### Preprints
 -----------------------
 
-⁕ [📄](https://arxiv.org/abs/2412.03997) $${\color{red}\text{New}}$$. with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability.
+⁕ [📄](https://arxiv.org/abs/2412.03997) $${\color{orange}\text{(new)}}$$. with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability.
 
 ### Publications
 -----------------------
