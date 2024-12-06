@@ -12,6 +12,6 @@ header_pages:
   - misc.md
   - contact.md
 
-style: dark
+style: light
 markdown: kramdown
 
