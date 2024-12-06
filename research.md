@@ -11,6 +11,11 @@ permalink: /research
 
 ⁕ [📄](https://www.research-collection.ethz.ch/handle/20.500.11850/680865) A geometric approach to isoperimetric problems and the semigeostrophic system
 
+### Preprints
+-----------------------
+
+⁕ [📄](https://arxiv.org/abs/2412.03997) **NEW** with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability.
+
 ### Publications
 -----------------------
 
