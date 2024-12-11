@@ -30,6 +30,7 @@ permalink: /research
 ### Given Talks
 -----------------------
 
+- Dec 2024 [Vienna Geometric Analysis Seminar](https://mathematik.univie.ac.at/forschung/seminare/vienna-geometric-analysis-seminar/), University of Vienna.
 - Nov 2024 [4th Austrian Calculus of Variations Day](https://appliedmath.univie.ac.at/public/ACVD/events/4/), Palais Claudiana, Innsbruck.
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
 -  Aug 2024 Workshop [Metric Geometry and Geometric Measure Theory ](https://commonweb.unifr.ch/_Science/Math/Pub/metric-geo-gmt/index.html), University of Fribourg.
