@@ -3,13 +3,12 @@ description: "Personal homepage of Lauro Silini"
 url: "https://laurosilini.github.io"
 title: Lauro Silini
 
-footer: Last update 11.12.2024
+footer: Last update 31.01.2025
 
 header_pages:
   - README.md
   - research.md
   - teaching.md
-  - misc.md
   - contact.md
 
 style: light
