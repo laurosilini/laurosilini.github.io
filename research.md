@@ -14,7 +14,7 @@ permalink: /research
 ### Publications & Preprints
 -----------------------
 
-⁕ [📄](https://arxiv.org/abs/2412.03997) **(new)** with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability, 2024, **arxiv preprint**.
+⁕ [📄](https://arxiv.org/abs/2412.03997) with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability, 2024, **arxiv preprint**.
 
 ⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
 
