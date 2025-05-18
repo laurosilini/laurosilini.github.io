@@ -30,6 +30,7 @@ permalink: /research
 ### Given Talks
 -----------------------
 
+- May 2025 [PDE-Kolloquium](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10557&brettid=80) University of Münster, Germany.
 - Dec 2024 [Vienna Geometric Analysis Seminar](https://mathematik.univie.ac.at/forschung/seminare/vienna-geometric-analysis-seminar/), University of Vienna.
 - Nov 2024 [4th Austrian Calculus of Variations Day](https://appliedmath.univie.ac.at/public/ACVD/events/4/), Palais Claudiana, Innsbruck.
 - Sept 2024 [The Pisan Workshop saga](https://sites.google.com/view/thepisanworkshopssaga/home?authuser=0), University of Pisa.
