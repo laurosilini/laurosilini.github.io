@@ -30,6 +30,7 @@ permalink: /research
 ### Given Talks
 -----------------------
 
+- Jun 2025 [LG&TBQ2: geometry, topology, and dynamics](https://www.crmath.ca/en/activities/#/type/activity/id/3991) CRM, Montreal, Canada.
 - May 2025 [PDE-Kolloquium](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10557&brettid=80) University of Münster, Germany.
 - Dec 2024 [Vienna Geometric Analysis Seminar](https://mathematik.univie.ac.at/forschung/seminare/vienna-geometric-analysis-seminar/), University of Vienna.
 - Nov 2024 [4th Austrian Calculus of Variations Day](https://appliedmath.univie.ac.at/public/ACVD/events/4/), Palais Claudiana, Innsbruck.
