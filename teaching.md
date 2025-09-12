@@ -6,6 +6,10 @@ permalink: /teaching
 
 ## Teaching
 
+### ISTA
+
+- Fall 2025: [Linear Algebra for quantitative Life Scientists](https://athena.ista.ac.at/node/51079), Lecturer.
+
 ### ETH Zürich
 
 - Spring 2024: [Functional Analysis II](https://metaphor.ethz.ch/x/2024/fs/401-3462-00L/), Teaching Assistant, Lecturer: Prof. Dr. [Marc Burger](https://math.ethz.ch/research/geometry-groups-dynamics/marc-burger.html)
