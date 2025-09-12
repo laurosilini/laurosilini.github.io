@@ -9,6 +9,6 @@ header_pages:
   - teaching.md
   - contact.md
 
-style: dark
+style: white
 markdown: kramdown
 
