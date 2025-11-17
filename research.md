@@ -30,6 +30,7 @@ permalink: /research
 ### Given Talks
 -----------------------
 
+- Nov 2025 [ESI Thematic Programme: Free boundary Problems, Workshop 2: Geometric variational problems](https://www.esi.ac.at/events/e555/), (ESI) Erwin Schrödinger Institute, Vienna.
 - Jun 2025 [Three Days in Sub-Riemannian Geometry](https://site.unibo.it/sub-riemannian-structures/en/events/three-days-in-sub-riemannian-geometry) Unibo, Bologna, Italy.
 - Jun 2025 [LG&TBQ2: geometry, topology, and dynamics](https://www.crmath.ca/en/activities/#/type/activity/id/3991) CRM, Montreal, Canada.
 - May 2025 [PDE-Kolloquium](https://www.uni-muenster.de/FB10/Service/show_article.shtml?id=10557&brettid=80) University of Münster, Germany.
