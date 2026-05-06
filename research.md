@@ -14,13 +14,13 @@ permalink: /research
 ### Publications & Preprints
 -----------------------
 
-⁕ [📄](https://arxiv.org/abs/2412.03997) with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability, 2024, **arxiv preprint**.
+⁕ [📎](https://arxiv.org/abs/2412.03997) with [Shrey Aryan](https://shrey183.github.io/), Free energy minimizers with radial densities: classification and quantitative stability, 2024, **arxiv preprint**.
 
-⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
+⁕ [📄](https://www.degruyter.com/document/doi/10.1515/acv-2023-0062/html)[📎](https://arxiv.org/abs/2304.02412) Quantitative C<sup>1</sup>-stability of spheres in rank one symmetric spaces of non-compact type. **Advances in Calculus of Variations**, 2024, no 0.
 
-⁕ [📄](https://link.springer.com/article/10.1007/s00526-023-02617-0) Approaching the isoperimetric problem in H<sup>m</sup><sub>C</sub> via the hyperbolic log-convex density conjecture, in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
+⁕ [📄](https://link.springer.com/article/10.1007/s00526-023-02617-0)[📎](https://arxiv.org/abs/2208.00195) Approaching the isoperimetric problem in H<sup>m</sup><sub>C</sub> via the hyperbolic log-convex density conjecture, in **Calculus of Variations and Partial Differential Equations**, 2024, vol. 63, no 1, p. 11.
 
-⁕ [📄](https://epubs.siam.org/doi/full/10.1137/22M1532846) Local existence of smooth solutions for the semigeostrophic equations on curved domains, in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
+⁕ [📄](https://epubs.siam.org/doi/full/10.1137/22M1532846)[📎](https://arxiv.org/abs/2206.06191) Local existence of smooth solutions for the semigeostrophic equations on curved domains, in **SIAM Journal on Mathematical Analysis**, 2023, vol. 55, no 6, p. 6554-6579.
 
 ### Report
 -----------------------
