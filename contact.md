@@ -1,5 +1,5 @@
 ---
-title: ✉/mail
+title: 𖧧/mail
 layout: page
 permalink: /mail
 ---
